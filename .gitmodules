@@ -1,0 +1,3 @@
+[submodule "some-util"]
+	path = some-util
+	url = git@github.com:cgregurich/some-util.git
